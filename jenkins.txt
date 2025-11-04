@@ -6,7 +6,7 @@ pipeline {
 				cleanWs()
 				git(
 					branch: 'main',
-					url: 'https://github.com/mhmdsh24/docker_assignment'
+					url: 'https://github.com/Karimahib/assignment'
 				)
 			}
 		}
